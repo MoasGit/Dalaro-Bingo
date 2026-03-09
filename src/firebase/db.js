@@ -190,7 +190,7 @@ export async function addReaction(messageId, emoji, playerId) {
 
 export const SQUARES = [
   { id: 's1',  label: 'Sett en älg' },
-  { id: 's2',  label: 'Kört på vilt (av misstag)' },
+  { id: 's2',  label: 'Sett ett vildsvin' },
   { id: 's3',  label: 'Klagat på hur någon annan valt att bygga/måla sitt hus' },
   { id: 's4',  label: 'Badat i kallare än 10 grader' },
   { id: 's5',  label: 'Skvallrat på byn' },
